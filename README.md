@@ -27,11 +27,11 @@ This is a **fully functional banking system in C#** that follows **SOLID princip
  dotnet run
 
 ## Future Enhancements
-**Add Unit Tests with xUnit & Moq**
-**Integrate with Database (Entity Framework Core)**
-**Improve logging with Cloud Storage**
-**Add Graphical User Interface (GUI) using Blazor/WinForms**
-**API integration for Banking Transactions**
+- **Add Unit Tests with xUnit & Moq**
+- **Integrate with Database (Entity Framework Core)**
+- **Improve logging with Cloud Storage**
+- **Add Graphical User Interface (GUI) using Blazor/WinForms**
+- **API integration for Banking Transactions**
 
 ## Connect with Me
 
